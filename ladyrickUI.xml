@@ -1,0 +1,11 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+<ribbon>
+<tabs>
+<tab id="rick_toolbox_tab" label="Rick的工具箱">
+<group id="rick_toolbox_group" label="Rick的工具箱">
+<button id="button1" label="按列分割文件" imageMso="MacroPlay" size="large" onAction="ladyrick_callback"/>
+</group>
+</tab>
+</tabs>
+</ribbon>
+</customUI>
